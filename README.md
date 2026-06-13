@@ -49,6 +49,8 @@ knee_gif.gif
 
 The model classifies knee X-ray images into five osteoarthritis severity levels (0–4).
 
+Note: The trained model file is not included due to GitHub file size limitations.
+
 ## Author
 
 Nisha P
